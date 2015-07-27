@@ -13,3 +13,7 @@ Link to work that's been done toward overcoming the aforementioned difficulty he
 ## Browser interest
 
 Link to posts by UA developers here.
+
+## Audience interest
+
+Link to posts by maintainers of high-visibility/large-scale projects (eg. frameworks, high-profile destinations like Stack Overflow) here.
